@@ -5,8 +5,7 @@ NIM   : 120140170
 
 Kelas : RA
 ## Aplikasi Jamma
-Jamma diambil dari bahasa Lampung yang berarti suku. Aplikasi Jamma berisi deskripsi suku-suku yang ada di Sumatera.
-
+Jamma diambil dari bahasa Lampung yang berarti suku. Aplikasi Jamma berisi deskripsi suku-suku yang ada di Sumatera. 
 <img src=https://github.com/PanduWiratama/UTS-PAM-120140170/blob/master/assets/Screenshot_20230322-202524_Jamma.jpg width=25% height=25%>
 <img src=https://github.com/PanduWiratama/UTS-PAM-120140170/blob/master/assets/Screenshot_20230322-202534_Jamma.jpg width=25% height=25%>
 <img src=https://github.com/PanduWiratama/UTS-PAM-120140170/blob/master/assets/Screenshot_20230322-202544_Jamma.jpg width=25% height=25%>
